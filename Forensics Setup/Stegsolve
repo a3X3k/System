@@ -1,0 +1,5 @@
+## Under linux there's a package called binfmt-support that allows you to run directly your jar without typing java -jar
+
+sudo apt-get install binfmt-support
+chmod u+x <File Name>.jar
+./<File Name>.jar

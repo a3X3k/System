@@ -43,3 +43,13 @@ sudo apt-get install python python-pip python-dev git libssl-dev libffi-dev buil
 python2 -m pip install --upgrade pip==20.3.4;
 python2 -m pip install --upgrade pwntools;
 sudo pip3 install autopep8;
+
+sudo apt-get update;
+sudo apt upgrade;
+sudo apt-get install python3-pip;
+sudo apt-get install libtiff5-dev;
+sudo pip3 install Pillow;
+sudo pip-3.2 install Pillow;
+
+sudo apt update;
+sudo apt upgrade;

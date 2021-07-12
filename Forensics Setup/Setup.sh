@@ -51,5 +51,7 @@ sudo apt-get install libtiff5-dev;
 sudo pip3 install Pillow;
 sudo pip-3.2 install Pillow;
 
+sudo pip install ipython
+
 sudo apt update;
 sudo apt upgrade;

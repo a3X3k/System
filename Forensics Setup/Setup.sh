@@ -55,3 +55,5 @@ sudo pip install ipython
 
 sudo apt update;
 sudo apt upgrade;
+
+sudo apt install volatility;

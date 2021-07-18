@@ -57,3 +57,7 @@ sudo apt update;
 sudo apt upgrade;
 
 sudo apt install volatility;
+sudo pip install python-csv;
+sudo pip install pycrypto && sudo pip install distorm3;
+sudo apt update;
+sudo apt upgrade;

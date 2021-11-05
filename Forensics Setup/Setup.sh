@@ -2,6 +2,7 @@
 sudo apt update;
 sudo apt upgrade;
 sudo pip install python;
+sudo apt install python;
 sudo apt-get install python3-pip;
 sudo apt install git;
 sudo apt install snap;

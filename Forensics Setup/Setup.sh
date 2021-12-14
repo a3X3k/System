@@ -80,3 +80,5 @@ sudo apt-get install foremost -y;
 
 python3 -m pip install Pillow;
 python3 -m pip install stegcracker;
+
+pip2 install scapy

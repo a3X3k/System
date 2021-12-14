@@ -81,4 +81,7 @@ sudo apt-get install foremost -y;
 python3 -m pip install Pillow;
 python3 -m pip install stegcracker;
 
+wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
+python2 get-pip.py
+sudo pip install --upgrade pip
 pip2 install scapy
